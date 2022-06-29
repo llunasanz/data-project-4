@@ -1,3 +1,7 @@
 *.csv
 test
 train
+test_*
+train_*
+removed
+.ipynb_checkpoints
